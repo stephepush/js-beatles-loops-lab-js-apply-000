@@ -31,6 +31,6 @@ function iLoveTheBeatles(iterator) {
 	do {
 		arr.push('I love the Beatles!');
 		i++;
-	} while (i < iterator);
+	} while (i < iterator-1);
 	return arr;
 }
