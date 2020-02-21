@@ -24,13 +24,13 @@ function johnLennonFacts(array){
 
 
 
-function iLoveTheBeatles(iterator) {
+function iLoveTheBeatles(num) {
 	var arr = [];
 	var i = 0;
 
 	do {
 		arr.push('I love the Beatles!');
 		i++;
-	} while (i < iterator-1);
+	} while (i < num-1);
 	return arr;
 }
