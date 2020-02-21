@@ -7,4 +7,4 @@ function theBeatlesPlay(musicians, instruments){
   return BeatlesInstruments
 }
 
-theBeatlesPlay();
+theBeatlesPlay(musicians, instruments);
